@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&display=swap');
+body{
+  background: #f5ad42 url("images/logobg.png") no-repeat center center; background-size: contain; font-family: 'Akshar', sans-serif;
+}
+h1{
+  font-family: 'Akshar', sans-serif; text-align: center;
+}
+p{
+  font-family: 'Akshar', sans-serif; text-align: center; word-wrap: break-word; justify-content: center;
+}
+div{
+  text-align: center;
+}
+ul{
+  display: inline-block; text-align: center;
+}
+html, body {
+  margin:0px;
+  height:100%;
+}
+.foot{
+  text-align: right;
+}
+.box {
+  background:lightblue;
+  width:100%;
+}
+li span { font-weight: bold; }
